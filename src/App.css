@@ -1,0 +1,45 @@
+.App {
+  background-color: #282c34;
+  text-align: center;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.Charts {
+  align-items: center;
+  text-align: center;
+}
+.linecharts {
+  align-items: center;
+  text-align: center;
+}
+.divCharts {
+  align-items: center;
+  text-align: center;
+  width: 1220px;
+  height: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: whitesmoke;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

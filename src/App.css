@@ -34,6 +34,7 @@
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
   border-bottom-left-radius: 20px;
+  padding: 20px;
 }
 @keyframes App-logo-spin {
   from {
@@ -42,4 +43,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.centroid {
+  color: #282c34;
 }
